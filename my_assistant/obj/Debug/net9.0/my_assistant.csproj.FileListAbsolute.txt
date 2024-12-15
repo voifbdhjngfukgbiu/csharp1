@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\my_assistant\bin\Debug\net9.0\my_assistant.exe
+C:\Users\Admin\Desktop\C#\my_assistant\bin\Debug\net9.0\my_assistant.deps.json
+C:\Users\Admin\Desktop\C#\my_assistant\bin\Debug\net9.0\my_assistant.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\my_assistant\bin\Debug\net9.0\my_assistant.dll
+C:\Users\Admin\Desktop\C#\my_assistant\bin\Debug\net9.0\my_assistant.pdb
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.dll
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\refint\my_assistant.dll
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.pdb
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\my_assistant.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\my_assistant\obj\Debug\net9.0\ref\my_assistant.dll
